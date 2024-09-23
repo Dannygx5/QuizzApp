@@ -1,0 +1,13 @@
+<resources>
+    <string name="Textopregunta">QuizzApp</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="next_button">next</string>
+    <string name="Question1">Te gusta jugar a RDR2</string>
+    <string name="Question2">Te gusta jugar HALO3</string>
+    <string name="Question3">El unicornios el animal nacional de Escocia</string>
+    <string name="Question4">Melbourne es la capital de Australia</string>
+    <string name="prev_button">Atras</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Textopregunta">QuizzApp</string>
+    <string name="correct_toast">Correcto</string>
+    <string name="incorrect_toast">Incorrecto</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="next_button">Siguiente</string>
+    <string name="prev_button">Anterior</string>
+    <string name="Question1">Pregunta1</string>
+    <string name="Question2">Pregunta2</string>
+    <string name="Question3">Pregunta3</string>
+    <string name="Question4">Pregunta4</string>
+</resources>
